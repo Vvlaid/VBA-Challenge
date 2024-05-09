@@ -30,13 +30,13 @@ Q1:
 ![Q1 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/9ac29cd3-575c-46a6-9fe0-384bb495645a)
 
 Q2:
-![Q2 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/eb2aa5be-9339-4092-a117-c241093b1155)
+![Q2 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/7026dc4f-ae4b-47e0-b3ce-ddd735af9200)
 
 Q3:
 ![Q3 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/f182923e-2ad1-40cd-9394-ac661aa0253b)
 
 Q4:
-![Q4 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/134ca6ea-9737-4024-bfb4-19fe3897a52e)
+![Q4 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/e46a0c23-2de3-475c-9740-80b51eb9ea3e)
 
 Thank you :)
 
