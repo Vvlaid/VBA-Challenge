@@ -16,3 +16,20 @@ http://dmcritchie.mvps.org/excel/colors.htm
 
 # Side Note:
 This project definitely required me to sit down multiple days for multiple hours each just to look through the class sessions again to keep practicing as I am definitely far from being able to do this quicker or easier for myself, this week coming I definitely will need tutoring to make Python easier on myself as we dive deeper.
+
+# Results for Q1, Q2, Q3, and Q4 respectively:
+
+Q1:
+![Q1 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/9ac29cd3-575c-46a6-9fe0-384bb495645a)
+
+Q2:
+![Q2 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/eb2aa5be-9339-4092-a117-c241093b1155)
+
+Q3:
+![Q3 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/f182923e-2ad1-40cd-9394-ac661aa0253b)
+
+Q4:
+![Q4 Results](https://github.com/Vvlaid/VBA-Challenge/assets/166451251/134ca6ea-9737-4024-bfb4-19fe3897a52e)
+
+Thank you :)
+
