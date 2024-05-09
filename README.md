@@ -5,7 +5,7 @@ I used essentially every cloud recordings via the Zoom VBA course week to reiter
 
 # Microsoft Functions definitions and explanations:
 https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit - for the autofit feature to correct the columns width to adjust perfectly to it's contents making it legible.
-(https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary) - helped clear out doubts and what variable terms to use when declaring them.
+https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/data-type-summary - helped clear out doubts and what variable terms to use when declaring them.
 
 # Stack Overflow:
 https://stackoverflow.com/questions/45510730/vba-how-to-convert-a-column-to-percentages - helped format for percents.
