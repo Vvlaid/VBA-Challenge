@@ -4,6 +4,8 @@ This is the Second Module Challenge/Homework for the Data Science Course
 I used essentially every cloud recordings via the Zoom VBA course week to reiterate it onto this module challenge. Heavier revisions were done to the Wednesday and Thursday sessions that helped tremendously with revising and correcting code; specially closer to the end of each session where the If loops were used. Those areas of the sessions would just help clear out a lot of the code going through the table and retrieving data while then inputting, through using variables, into the new table with the correct data. 
 One specific section aiding immensely was the "credit_charges" section of the class on Thursday.
 
+I added the VBA file solutions that were involved during the course sessions of the VBA week that I used to essentially apply into the code for this challenge.
+
 # Microsoft Functions definitions and explanations:
 
 https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit - for the autofit feature to correct the columns width to adjust perfectly to it's contents making it legible.
