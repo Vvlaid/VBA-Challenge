@@ -18,7 +18,7 @@ https://stackoverflow.com/questions/68498912/find-the-last-row-column-in-excel-u
 
 # Excel ColorIndex Colors:
 
-http://dmcritchie.mvps.org/excel/colors.htm
+http://dmcritchie.mvps.org/excel/colors.htm - getting the indexes for the green and red colors in regards to formatting the column.
 
 # Side Note:
 
